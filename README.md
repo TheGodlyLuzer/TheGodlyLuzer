@@ -1,30 +1,3 @@
-# Hey there👋, Welcome to my Github Profile
-
- <p>- <i>A computer science student and a aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code.</i></p>
-
-
-<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
-
-## ⚡🙋‍♂️ About Me
-
-</br>
-
-- 🔧 I’m currently studying at University of Konstanz, Germany
-
-- 💡 I’m curious about developing some cool stuff
-- 📖 I’m currently improving my c# skills
-- ❄️ I’m looking to collaborate on everything i guess...
-
-<hr>
-
-</br>
-
-
-<table width="100%" >
-
- <tr>
-    <td width="60%">
-     
 ## 🛠️ Skills
 
 #### Languages
