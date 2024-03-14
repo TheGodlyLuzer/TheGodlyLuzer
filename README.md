@@ -3,19 +3,21 @@
 #### Languages
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)&nbsp;
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-%23150458.svg?style=flat&logo=java&logoColor=orange)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![PHP](https://img.shields.io/badge/-Php-05122A?style=flat&logo=php)&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23007ACC.svg?style=flat&logo=javascript&logoColor=white)&nbsp;
 
 
-#### Development
+#### Frameworks
       
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)&nbsp;
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
+![React](https://img.shields.io/badge/react-%2335495e.svg?style=flat&logo=react&logoColor=%234FC08D)&nbsp;
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
 
 
-#### Database
+#### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=green)
